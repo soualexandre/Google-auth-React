@@ -17,6 +17,7 @@ The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
 ##Rodar o projeto
+
 primeiro você deve criar uma conta no google API e gerar um client ID
 subtitua a chave no arquivo App.js
 
