@@ -23,5 +23,6 @@ primeiro você deve criar uma conta no google API e gerar um client ID
 subtitua a chave no arquivo App.js
 
 
-*npm install
-*npm run serve
+npm install
+
+npm run serve
